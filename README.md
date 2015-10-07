@@ -1,4 +1,4 @@
 # StegLsb
-Steganography with LSB
+Steganography with LSB</br>
 the secret picture is in red plane 0
 You can use the Stegsolve.jar to find the secret data 
